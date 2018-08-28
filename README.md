@@ -34,3 +34,6 @@ Key variables:
 - __**status_time**__: Default (1), payoff (2), and nondefault/nonpayoff (0) observation at observation time
 
 The dataset can be downloaded from [here](http://www.creditriskanalytics.net/uploads/1/9/5/1/19511601/mortgage.rar)
+
+
+B. Baesens, D. Roesch, H. Scheule, Credit Risk Analytics: Measurement Techniques, Applications and Examples in SAS, Wiley, 2016.
